@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayansartori/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KayanSartori/)
 
-![kayansartori GitHub stats](https://github-readme-stats.vercel.app/api?username=kayansartori&show_icons=true&theme=merko)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayansartori&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
