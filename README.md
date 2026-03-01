@@ -6,8 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayansartori&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
